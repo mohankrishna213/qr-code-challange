@@ -1,0 +1,46 @@
+body{
+  background-color: #D6E2F0;
+  text-align: center;
+}
+img{
+  width:140px;
+  border-radius: 5px;
+}
+.bottom{
+  font-size: 7px;
+  font-family: 'Montserrat', sans-serif;
+  font-weight: 400;
+  color: #7B879D;
+}
+.top{
+  font-family: 'Merriweather Sans', sans-serif;
+  font-size: 10px;
+  font-weight: 700;
+  color: #1F3251;
+}
+.card{
+  display: inline-block;
+  background-color: white;
+  width: 140px;
+  padding: 8px;
+  border-radius: 10px;
+  text-align: center;
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+}
+.attribution {
+  font-size: 11px;
+  position: absolute;
+  bottom: 0;
+  margin-left: auto;
+  margin-right: auto;
+  left: 0;
+  right: 0;
+
+}
+a {
+  color: #3E52A3;
+
+}
